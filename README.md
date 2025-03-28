@@ -41,13 +41,16 @@ BookNest is a dynamic book library that allows users to search, browse, and expl
 ## 📸 Screenshots
 
 ### List View
-![List View]([Screenshot%20(155).png](https://github.com/adii4040/BookNest/blob/main/Screenshots/Grid%20View.png))
+![List View]![List View](https://github.com/user-attachments/assets/94188bda-f1ce-40db-ade4-0460f05e70ec)
+
 
 ### Grid View
-![Grid View](Screenshot%20(156).png)
+![Grid View]![Grid View](https://github.com/user-attachments/assets/9c9639cd-63bc-4867-be41-75f8b923144a)
+
 
 ### Pagination
-![Pagination](Screenshot%20(157).png)
+![Pagination]![Pagination](https://github.com/user-attachments/assets/82d27b55-82c9-415f-9c4f-93693eacf516)
+
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
