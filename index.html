@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookNest</title>
+    <link rel="shortcut icon" href="favicon.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playwrite+IE+Guides&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main>
+        <header class="flex">
+            <div class="headTitle">
+                <h1>BookNest</h1>
+            </div>
+
+            <div class="searchBar">
+                <label for="search" >Search</label>
+                <input type="search"  id="searchInput" placeholder="Search to get knowledge...">
+            </div>
+        </header>
+
+        <div id="content">
+            <div class="props flex">
+                <button id="changeLayout">GRID</button>
+
+                <div class="sorting">
+                    <label for="sortId">Sort Book </label>
+                    <select id="sortId">
+                        <option value="">Original Order</option>
+                        <option value="Title">Sort by Title</option>
+                        <option value="Date">Sort by Date</option>
+                    </select>
+
+                </div>
+            </div>
+
+            <div id="bookContainer" class="bookContainerClass"></div>
+
+            <div class="pagination flex">
+                <div id="prevBtn" class="paginationBtn" disable>PREV</div>
+
+                <div id="currentPage">1</div>
+
+                <div id="nextBtn" class="paginationBtn">NEXT</div>
+
+<a href=""></a>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
