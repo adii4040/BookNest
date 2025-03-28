@@ -41,7 +41,7 @@ BookNest is a dynamic book library that allows users to search, browse, and expl
 ## 📸 Screenshots
 
 ### List View
-![List View](Screenshot%20(155).png)
+![List View]([Screenshot%20(155).png](https://github.com/adii4040/BookNest/blob/main/Screenshots/Grid%20View.png))
 
 ### Grid View
 ![Grid View](Screenshot%20(156).png)
